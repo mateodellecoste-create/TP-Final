@@ -1,0 +1,5 @@
+# Ignorar objetos compilados y el ejecutable
+*.o
+battlezone
+# Ignorar archivos del entorno de VS Code
+.vscode/
