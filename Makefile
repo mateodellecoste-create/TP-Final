@@ -6,8 +6,8 @@ CFLAGS = -Wall -Wextra -pedantic -std=c99 -g
 LDFLAGS = -lm -lSDL2
 
 # 2. Acá ponemos los archivos .o (objetos) que vamos a compilar. 
-# Por ahora arrancamos solo con main y modelo.
-OBJS = main.o modelo.o
+
+OBJS = TP1.o
 
 # 3. El nombre de nuestro programa final
 PROGRAM = battlezone
